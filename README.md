@@ -1,2 +1,15 @@
-# Tensor_project
-Mini Resume Collector API built using FastAPI. Provides endpoints to create, retrieve, and manage resumes with input validation and automatic API documentation via Swagger UI.
+# Mini Resume Collector
+
+A lightweight REST API built with FastAPI to collect and manage candidate resumes in memory.
+
+## Project Details
+- **Python Version:** 3.9+
+- **Framework:** FastAPI
+- **Storage:** In-memory (volatile)
+
+## Installation Steps
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/miniresume-your-full-name.git
+   cd miniresume-your-full-name
