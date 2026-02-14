@@ -11,5 +11,6 @@ A lightweight REST API built with FastAPI to collect and manage candidate resume
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/miniresume-your-full-name.git
-   cd miniresume-your-full-name
+   git clone https://github.com/Ananthu91/miniresume-ArjunRM.git
+   cd miniresume-ArjunRM
+
